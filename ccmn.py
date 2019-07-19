@@ -1,2 +1,2 @@
-number=input()
-print(len(number))
+surya=input()
+print(len(surya))
