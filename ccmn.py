@@ -1,3 +1,3 @@
 number=input()
-if number>0:
+if int(number)>0:
   print(len(number))
